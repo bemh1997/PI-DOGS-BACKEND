@@ -55,8 +55,6 @@ La idea de este proyecto es construir una aplicación web a partir de la API [**
 
 <br />
 
----
-
 <div align="center">
 
 ## **📁 INSTRUCCIONES**
